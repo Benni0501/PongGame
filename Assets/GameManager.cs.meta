@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fcf311335eb2e6d4bb22498f3b4a2ec0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Ball: {instanceID: 0}
+  - player1Paddle: {instanceID: 0}
+  - player1Goal: {instanceID: 0}
+  - player2Paddle: {instanceID: 0}
+  - player2Goal: {instanceID: 0}
+  - Player1Text: {instanceID: 0}
+  - Player2Text: {instanceID: 0}
+  - bounce: {fileID: 6200000, guid: a85c1f1c8303c9249b891f4b551cbfb7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
